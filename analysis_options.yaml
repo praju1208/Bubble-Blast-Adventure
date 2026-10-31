@@ -1,0 +1,11 @@
+analyzer:
+  errors:
+    annotate_overrides: ignore
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
